@@ -1,0 +1,25 @@
+.nav-burger {
+  display: none;
+}
+
+@media (max-width: 768px) {
+  .nav-desktop-links {
+    display: none !important;
+  }
+
+  .nav-burger {
+    display: flex !important;
+  }
+}
+
+@media (max-width: 900px) {
+  #about .container > div:nth-last-child(1) {
+    grid-template-columns: 1fr !important;
+  }
+}
+
+@media (max-width: 860px) {
+  #services .container > div:last-child {
+    grid-template-columns: 1fr !important;
+  }
+}
