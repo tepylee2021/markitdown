@@ -3,9 +3,12 @@
 Drop-in skills that let any AI agent (Claude Desktop, ChatGPT, Cursor, Cline, Continue, etc.)
 consume OmniRoute via OpenAI-compatible REST in one fetch.
 
-> **Installed here:** four of the catalog's skills — `omni-auth` (REST entry point),
-> `cli-serve` (CLI entry point), `omni-inference` (chat/embeddings/images/audio endpoints),
-> and `omni-models` (model catalog and alias resolution).
+> **Installed here:** six of the catalog's skills —
+> `omni-auth` (REST entry point), `cli-serve` (CLI entry point),
+> `omni-inference` (chat/embeddings/images/audio endpoints),
+> `omni-models` (model catalog and alias resolution),
+> `omni-providers` (provider connections, keys, OAuth, connection tests), and
+> `omni-combos-routing` (routing combos, strategies, fallback chains).
 > The rest of the catalog below is reference. To add one, copy its directory from
 > `skills/<id>/` in the source repo (see the pinned commit at the bottom of this file)
 > into `.claude/skills/<id>/`.
