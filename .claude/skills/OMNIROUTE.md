@@ -3,6 +3,11 @@
 Drop-in skills that let any AI agent (Claude Desktop, ChatGPT, Cursor, Cline, Continue, etc.)
 consume OmniRoute via OpenAI-compatible REST in one fetch.
 
+> **Installed here:** only the two entry-point skills, `omni-auth` (REST) and `cli-serve` (CLI).
+> The rest of the catalog below is reference. To add one, copy its directory from
+> `skills/<id>/` in the source repo (see the pinned commit at the bottom of this file)
+> into `.claude/skills/<id>/`.
+
 ## Entry points
 
 | Type | Skill                                       | Manifest                                 |
