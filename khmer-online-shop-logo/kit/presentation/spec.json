@@ -1,0 +1,37 @@
+{
+  "brand": "Khmer Online Shop",
+  "tagline": "Packaging · Bags · Electronics",
+  "brief": "Phnom Penh online shop selling plastic bags, courier mailer bags and packaging (wholesale and retail), plus electronics. Customers order by Facebook, Messenger and Telegram. The old logo had too many parts and colours to read at profile-picture size.",
+  "adjectives": ["trustworthy", "strong", "friendly", "easy to order"],
+  "criteria": "Success: reads at Facebook avatar size, two colours only, prints in one colour on plastic bags, English letters.",
+  "industry": "retail",
+  "mockups": ["shopping-bag", "box", "sticker", "social", "signage", "website"],
+  "nav": ["Bags", "Packaging", "Electronics", "Order"],
+  "brand_color": "#0B3C6F",
+  "tile_color": "#0B3C6F",
+  "greyscale": false,
+  "final": true,
+  "deck_title": "logo kit",
+  "concepts": [
+    {
+      "name": "Chat Bag",
+      "symbol": "../master/kos-symbol.svg",
+      "lockup": "../master/kos-horizontal.svg",
+      "stacked": "../master/kos-stacked.svg",
+      "avatar": "../master/kos-symbol.svg",
+      "symbol_on_tile": "../master/kos-symbol-reversed.svg",
+      "symbol_on_dark": "../master/kos-symbol-reversed.svg",
+      "lockup_on_dark": "../master/kos-horizontal-reversed.svg",
+      "stacked_on_tile": "../master/kos-stacked-reversed.svg",
+      "stacked_on_dark": "../master/kos-stacked-reversed.svg",
+      "idea": "A shopping bag whose body is a chat bubble: you shop with Khmer Online Shop by sending a message.",
+      "rationale": [
+        "Keeps the bag and round-dot handle customers already know",
+        "The chat bubble says 'order by message' — how the shop actually sells",
+        "Custom K with exact 45° arms; two colours; one-colour version for bag printing"
+      ]
+    }
+  ],
+  "recommendation": "Use the full-colour symbol as the Facebook/Messenger/Telegram avatar, the horizontal lockup on the cover and labels, and the one-colour navy version for printing on plastic bags.",
+  "next_steps": ["Update Facebook profile + cover", "Print thank-you labels and stickers", "Brief bag printer with the one-colour file"]
+}
